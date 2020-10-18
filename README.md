@@ -1,6 +1,7 @@
 # politweep
 Alle tweets fra politiet, i sceen_name.csv format. 
 TweetID,date_sendt,"screen_name","Tweet_text"
+               Validerte med tilleggsfelt for +, "Hashtags","Steder" 
 
 Antall tweets : data.csv
 -----------------------------
